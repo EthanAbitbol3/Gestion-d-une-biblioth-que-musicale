@@ -1,4 +1,4 @@
-# Gestion-d-une-biblioth-que-musicale
+# Gestion d'une bibliothéque musicale
 
 Dans ce projet, nous nous intéressons a la gestion d’une bibliothèque musicale
 composée de morceaux. Un morceau est repéré par son titre, le nom de l’artiste qui
